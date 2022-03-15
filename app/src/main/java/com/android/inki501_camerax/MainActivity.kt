@@ -14,7 +14,7 @@ import androidx.camera.lifecycle.ProcessCameraProvider
 import androidx.camera.video.*
 import androidx.camera.video.VideoCapture
 import androidx.core.content.PermissionChecker
-import com.android.example.cameraxapp.databinding.ActivityMainBinding
+import com.android.inki501_camerax.databinding.ActivityMainBinding
 import java.nio.ByteBuffer
 import java.text.SimpleDateFormat
 import java.util.*
